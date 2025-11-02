@@ -1,0 +1,2 @@
+# DailyDeck
+Analyze store operations
